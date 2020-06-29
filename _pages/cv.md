@@ -21,14 +21,8 @@ Professional Experience
 * 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem  
 
 * 2012: Research Assistant 
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
+   
 Teaching
 ======
-  I am not teaching at the moment. 
+  Modern Physics, Wave Physics, Engineering Mechanics
   
