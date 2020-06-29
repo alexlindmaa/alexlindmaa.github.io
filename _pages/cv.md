@@ -20,14 +20,6 @@ Professional Experience
   
 * 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-#* Skill 3
 
 Publications
 ======
@@ -43,9 +35,7 @@ Talks
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  I am not teaching at the moment. 
   
 Service and leadership
 ======
