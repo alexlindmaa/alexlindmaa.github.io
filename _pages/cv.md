@@ -18,14 +18,7 @@ Professional Experience
 ======
 * 2018 - Present: Scientific Consultant
   
-* 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem
-  
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem  
   
 Talks
 ======
@@ -37,6 +30,3 @@ Teaching
 ======
   I am not teaching at the moment. 
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
