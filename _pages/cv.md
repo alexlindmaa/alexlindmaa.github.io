@@ -11,20 +11,14 @@ redirect_from:
 
 Education
 ======
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* M.S. in Applied Physics
+* Ph.D in Theoretical and Computational Physics
 
-Work experience
+Professional Experience 
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018 - Present: Scientific Consultant
+  
+* 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem
   
 Skills
 ======
