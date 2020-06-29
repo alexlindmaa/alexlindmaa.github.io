@@ -19,6 +19,8 @@ Professional Experience
 * 2018 - Present: Scientific Consultant
   
 * 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem  
+
+* 2012: Research Assistant 
   
 Talks
 ======
