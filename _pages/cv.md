@@ -9,12 +9,12 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * 2012: M.Sc. in Applied Physics
 * 2017: Ph.D. in Theoretical and Computational Physics
 
-Professional Experience 
+## Professional Experience 
 ======
 * 2018 - Present: Scientific Consultant
   
@@ -24,9 +24,11 @@ Professional Experience
 
 * 2012: Research Assistant 
    
-Teaching
+## Teaching    
 ======
-  Modern Physics (Graduate), Wave Physics (Undergraduate), Engineering Mechanics (Undergraduate)
+  * Modern Physics (Graduate), 
+  * Wave Physics (Undergraduate)
+  * Engineering Mechanics (Undergraduate)
 
 ## Honors, Grants, and Awards
 * 2018 Research Fellowship, The Hebrew University of Jerusalem 
