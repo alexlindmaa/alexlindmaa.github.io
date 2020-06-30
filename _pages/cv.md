@@ -20,9 +20,10 @@ Professional Experience
   
 * 2018 - 2019: Postdoctoral Researcher, The Racah Institute of Physics, The Hebrew University of Jerusalem 
 
+* 2012 - 2017: Graduate Researcher 
+
 * 2012: Research Assistant 
    
 Teaching
 ======
-  Modern Physics (Graduate), Wave Physics (Undergraduate), Engineering Mechanics (Undergraduate) 
-  
+  Modern Physics (Graduate), Wave Physics (Undergraduate), Engineering Mechanics (Undergraduate)
