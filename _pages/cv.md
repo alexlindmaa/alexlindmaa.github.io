@@ -11,18 +11,18 @@ redirect_from:
 
 Education
 ======
-* M.S. in Applied Physics
-* Ph.D in Theoretical and Computational Physics
+* 2012: M.Sc. in Applied Physics
+* 2017: Ph.D. in Theoretical and Computational Physics
 
 Professional Experience 
 ======
 * 2018 - Present: Scientific Consultant
   
-* 2018 - 2019: Postdoctoral Researcher, Hebrew University of Jerusalem  
+* 2018 - 2019: Postdoctoral Researcher, The Racah Institute of Physics, The Hebrew University of Jerusalem 
 
 * 2012: Research Assistant 
    
 Teaching
 ======
-  Modern Physics, Wave Physics, Engineering Mechanics
+  Modern Physics (Graduate), Wave Physics (Undergraduate), Engineering Mechanics (Undergraduate) 
   
