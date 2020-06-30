@@ -28,6 +28,5 @@ Teaching
 ======
   Modern Physics (Graduate), Wave Physics (Undergraduate), Engineering Mechanics (Undergraduate)
 
-## Awards
-
-Research Fellowship, The Hebrew University of Jerusalem 
+## Honors, Grants, and Awards
+* 2018 Research Fellowship, The Hebrew University of Jerusalem 
