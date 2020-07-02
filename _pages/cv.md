@@ -17,7 +17,7 @@ redirect_from:
 
 ## Professional Experience 
 
-* 2018 - Present: Scientific Consultant
+* 2018 - Present: Research Scientist and Scientific Consultant
   
 * 2018 - 2019: Postdoctoral Research Associate, The Racah Institute of Physics, The Hebrew University of Jerusalem 
 
