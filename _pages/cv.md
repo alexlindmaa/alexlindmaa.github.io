@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 
-* 2010: B.Sc. in Applied Physics and Electrical Engineering 
-* 2012: M.Sc. in Applied Physics
 * 2017: Ph.D. in Theoretical and Computational Physics
+* 2012: M.Sc. in Applied Physics
+* 2010: B.Sc. in Applied Physics and Electrical Engineering 
 
 ## Professional Experience 
 
