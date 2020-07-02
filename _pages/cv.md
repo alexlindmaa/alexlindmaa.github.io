@@ -33,8 +33,8 @@ redirect_from:
 
 ## Student Supervision
 
+  * J. D
   * 
-  *
   *
 
 ## Honors, Grants, and Awards
