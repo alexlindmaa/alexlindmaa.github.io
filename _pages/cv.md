@@ -18,11 +18,11 @@ redirect_from:
 
 * 2018 - Present: Scientific Consultant
   
-* 2018 - 2019: Postdoctoral Researcher, The Racah Institute of Physics, The Hebrew University of Jerusalem 
+* 2018 - 2019: Postdoctoral Research Associate, The Racah Institute of Physics, The Hebrew University of Jerusalem 
 
-* 2012 - 2017: Graduate Researcher 
+* 2012 - 2017: Graduate Researcher, Institute of Technology, Linköping University, Sweden
 
-* 2012: Research Assistant 
+* 2012: Research Assistant, Institute of Technology, Linköping University, Sweden
    
 ## Teaching    
 
