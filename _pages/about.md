@@ -16,7 +16,7 @@ Rather than being composed by a set of logical instructions, a machine learning 
 
 ## Functional Theories
 
-Solving the quantum-mechanical equations of motion is a problem of exponential complexity. In 1964 Hohenberg and Kohn provided a formal way to map the interacting many-body problem to a variational problem formulated in the fermionic particle density. While this strategy results in a significant reduction in computational complexity, a major unsolved problem is to viably include the exchange-correlaton effects in the approximations. 
+Solving the quantum-mechanical equations of motion is a problem of exponential complexity. A number of theories known as functional theoies has been suggested to adress this problem. In 1964 Hohenberg and Kohn provided a formal way to map the interacting many-body problem to a variational problem formulated in the fermionic particle density. While this strategy results in a significant reduction in computational complexity, a major unsolved problem is to viably include the exchange-correlaton effects in the approximations. 
 
 
 
