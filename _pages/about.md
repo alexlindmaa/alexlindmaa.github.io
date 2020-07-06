@@ -20,3 +20,4 @@ Solving the quantum-mechanical equations of motion is a computational problem of
 
 ## Statistical Physics
 
+Many applications rely on problem formulations which is inherently stochastic in nature. Statistical physics provides very powerful analytical tools that can be used to study high-complexity systems, with applications in natural science, finance, and information theory.
