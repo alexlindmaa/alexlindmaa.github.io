@@ -18,11 +18,13 @@ As opposed to being composed by a set of logical instructions, a machine learnin
 
 Arguments from complexity theory suggest that quantum mechanics is vastly superior to classical mechanics from a computational point of view. The existence of Shor’s famous integer factorization algorithm supports a common assumption, namely that all problems that can be solved efficiently on a classical computer can be solved at least as efficiently on a quantum computer, while the opposite might not be true. The realization of general purpose quantum computers has the potential to transform multiple sectors such as finance, security, and logistics. The need for scalability requires a high degree of computational fault-tolerance. Using tools from statistical learning theory and machine learning I develop methods to improve the accuracy of quantum computers. 
 
-
 ## Functional Theories
 
 Solving the quantum-mechanical equations of motion is a computational problem of exponential complexity. A number of approaches known as functional theories has been suggested to adress this problem. One of the most promiment examples is the seminal work by Hohenberg and Kohn. They provided a formal way to map the interacting many-body problem to a variational problem solely formulated in the fermionic particle density. While this strategy results in a significant reduction in computational complexity, a major challenge is to viably include the exchange-correlaton effects in the functionanal approximations. 
 
+## Numerical Simulation of Realistic Materials
+
+The accurate prediction of the properties of materials requires solutions to the Schrödinger equation. We develop a real space code to numerically solve for the electronic density in general materials. We base our solver on the finite element method that allows us construct systematically accurate solutions to the variational Thomas-Fermi equation and its generalizations. The solver handles various kinds of boundary conditions, such as the Dirichlet condition, for general unit cells. 
 
 # Past Research 
 
