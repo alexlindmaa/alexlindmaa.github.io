@@ -24,6 +24,6 @@ Arguments from complexity theory suggest that quantum mechanics is vastly superi
 Solving the quantum-mechanical equations of motion is a computational problem of exponential complexity. A number of approaches known as functional theories has been suggested to adress this problem. One of the most promiment examples is the seminal work by Hohenberg and Kohn. They provided a formal way to map the interacting many-body problem to a variational problem solely formulated in the fermionic particle density. While this strategy results in a significant reduction in computational complexity, a major challenge is to viably include the exchange-correlaton effects in the functionanal approximations. 
 
 
-
+# Past Research 
 
 
