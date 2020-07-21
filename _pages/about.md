@@ -26,4 +26,15 @@ Solving the quantum-mechanical equations of motion is a computational problem of
 
 # Past Research 
 
+### Modeling of high-temperature paramagnetism in disordered systems
+
+The first-principles modeling of the high-temperature paramagnetic state in disordered systems is a profound challenge in condensed matter physics. The origins of this challenge originats in the complex interplay between the nuclear and electronic degrees of freedom. In this work we suggest a novel approach to deal with this problem. By mapping the degrees of freedom onto classical spin Hamiltonian models, we use a direct-cluster averaging method that allows for the accurate and direct computation of the magnetic spin interactions, hence indirectly including the inherent magneto-lattice coupling effects. The method allows for the treatment of general systems with no underlying crystal symmetry and arbitrary degrees of chemical and topological disorder. 
+
+### Semiclassical Origins of Functional Theories 
+
+One of the earliest density-based variational approaches is Thomas-Fermi theory. It becomes exact in certain asymptotic limits. In this work we set out to investigate the kinetic properties of the electronic density in systems with electronic edges. The presence of classical turning points in a many-electron system leads to the breakdown of the extended Thomas-Fermi theory and introduces quantum oscillations in the kinetic energy density in the large N fermionic particle limit. We provide numerical proof of the universal validity of a generalized gradient expansion to closed and semi-inifinite systems under a set of minimal general constraints and discuss its non-uniqueness in some circumstances.  
+
+
+
+
 
