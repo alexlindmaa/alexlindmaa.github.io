@@ -34,7 +34,9 @@ The first-principles modeling of the high-temperature paramagnetic state in diso
 
 One of the earliest density-based variational approaches is Thomas-Fermi theory. It becomes exact in certain asymptotic limits. In this work we set out to investigate the kinetic properties of the electronic density in systems with electronic edges. The presence of classical turning points in a many-electron system leads to the breakdown of the extended Thomas-Fermi theory and introduces quantum oscillations in the kinetic energy density in the large N fermionic particle limit. We provide numerical proof of the universal validity of a generalized gradient expansion to closed and semi-inifinite systems under a set of minimal general constraints and discuss its non-uniqueness in some circumstances.  
 
+### Machine Learning Physics 
 
+Machine learning is on the verge of transforming condensed matter physics research and materials science. A most fundamental property of any given material is its thermodynamic stability. We develop several physics-informed machine learning models based on kernel ridge regression that allows for the accurate prediction of the formation energies of general solids. Our models are centered around the inherent property of space group symmetry of the underlying crystal structure, which allows us to omit any coordinate dependence of the descriptor. Given sufficient training, our models allow for arbitrary accuracy. 
 
 
 
