@@ -28,7 +28,7 @@ The accurate prediction of the properties of materials requires solutions to the
 
 # Past Research 
 
-### Computational Modeling of the High-Temperature Paramagnetic State in Disordered Systems
+### Computational Modeling of the High-Temperature Paramagnetic State in Disordered Materials
 
 The first-principles modeling of the high-temperature paramagnetic state in disordered systems is a profound challenge in condensed matter physics. The origins of this challenge originats in the complex interplay between the nuclear and electronic degrees of freedom. In this work we suggest a novel approach to deal with this problem. By mapping the degrees of freedom onto classical spin Hamiltonian models, we use a direct-cluster averaging method that allows for the accurate and direct computation of the magnetic spin interactions, hence indirectly including the inherent magneto-lattice coupling effects. The method allows for the treatment of general systems with no underlying crystal symmetry and arbitrary degrees of chemical and topological disorder. 
 
