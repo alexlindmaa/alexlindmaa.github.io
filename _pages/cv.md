@@ -11,9 +11,9 @@ redirect_from:
 
 ## Education
 
-* 2017: Ph.D. in Theoretical and Computational Physics
-* 2012: M.Sc. in Applied Physics
-* 2010: B.Sc. in Applied Physics and Electrical Engineering 
+* Ph.D. Theoretical and Computational Physics
+* M.Sc. Theoretical Physics
+* B.Sc. Applied Physics and Electrical Engineering 
 
 ## Professional Experience 
 
@@ -27,13 +27,15 @@ redirect_from:
    
 ## Teaching    
 
-  * Modern Physics (Graduate), 
-  * Wave Physics (Undergraduate)
-  * Engineering Mechanics (Undergraduate)
+Currently I am not teaching. In the past I have thought the following classes:
 
-## Student Supervision
+  * Modern Physics (Graduate Level), 
+  * Wave Physics (Undergraduate Level)
+  * Engineering Mechanics (Undergraduate Level)
 
-  * J. D
+## Students
+
+  * 
   * 
   *
 
