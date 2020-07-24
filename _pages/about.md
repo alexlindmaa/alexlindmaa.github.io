@@ -40,5 +40,6 @@ One of the earliest density-based variational approaches is Thomas-Fermi theory.
 
 Machine learning is on the verge of transforming condensed matter physics research and materials science. A most fundamental property of any given material is its thermodynamic stability. We develop several physics-informed machine learning models based on kernel ridge regression that allows for the accurate prediction of the formation energies of general solids. Our models are centered around the inherent property of space group symmetry of the underlying crystal structure, which allows us to omit any coordinate dependence of the descriptor. Given sufficient training, our models allow for arbitrary accuracy. 
 
+### Non-Local Exchange Physics in Semi-Local Density-Based Theories
 
 
