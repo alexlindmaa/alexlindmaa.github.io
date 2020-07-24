@@ -26,7 +26,7 @@ Solving the quantum-mechanical equations of motion is a computational problem of
 
 The accurate prediction of the properties of materials requires solutions to the Schrödinger equation. We develop a real space code to numerically solve for the electronic density in general materials. We base our solver on the finite element method that allows us construct systematically accurate solutions to the variational Thomas-Fermi equation and its generalizations. The solver handles various kinds of boundary conditions, such as the Dirichlet condition, for general unit cells. 
 
-# Past Research 
+# Past Projects
 
 ### Computational Modeling of the High-Temperature Paramagnetic State in Disordered Materials
 
