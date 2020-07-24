@@ -29,11 +29,11 @@ redirect_from:
 
 Currently I am not teaching. In the past I have thought the following classes:
 
-  * Modern Physics (Graduate Level), 
+  * Modern Physics (Graduate Level) 
   * Wave Physics (Undergraduate Level)
   * Engineering Mechanics (Undergraduate Level)
 
-## Students
+## Student Supervision 
 
   * 
   * 
