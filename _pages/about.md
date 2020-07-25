@@ -43,3 +43,9 @@ Machine learning is on the verge of transforming condensed matter physics resear
 ### Non-Local Exchange Physics in Semi-Local Density-Based Theories
 
 
+
+
+
+
+
+
