@@ -42,8 +42,7 @@ Machine learning is on the verge of transforming condensed matter physics resear
 
 ### Non-Local Exchange Physics in Semi-Local Density-Based Theories
 
-
-
+The accurate description of non-local exchange effects in semi-local density functional theory is a major challenge in condensed matter physics. Well-known approximaions based on the density and its gradients fail to capture many important aspects that are inherent to the physics of many-body systems. In this work we set out to treat general energetic properties and single particle properties on an equal foooting. Our framework is based on generalized gradient approximations with novel types of asymptotoics in its derivate. 
 
 
 
