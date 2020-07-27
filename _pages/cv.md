@@ -35,4 +35,4 @@ Currently I am not teaching. In the past I have thought the following classes:
 
 ## Honors, Grants, and Awards
 
-* 2018: Research Fellowship, The Hebrew University of Jerusalem 
+* 2018: Research Fellowship, The Hebrew University of Jerusalem, Israel 
