@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Alexander Lindmaa"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,9 +80,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Big Al"
+  name             : "Alexander Lindmaa"
   avatar           : "profile.png"
-  bio              : "Theoretical Physicist | Machine Learning Researcher"  
+  bio              : "Theoretical Physics | Machine Learning"  
 #  location         : "Location"
   employer         :
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
