@@ -11,15 +11,15 @@ redirect_from:
 
 ## Education
 
-* Ph.D. Theoretical and Computational Physics
-* M.Sc. Theoretical Physics
-* B.Sc. Applied Physics and Electrical Engineering 
+* Ph.D. Theoretical and Computational Physics, LiTH Sweden 
+* M.Sc. Theoretical Physics, LiTH Sweden 
+* B.Sc. Applied Physics and Electrical Engineering, LiTH Sweden 
 
 ## Professional Experience 
 
 * 2018 - Present: Research Scientist and Scientific Consultant
   
-* 2018 - 2019: Postdoctoral Research Associate, The Racah Institute of Physics, The Hebrew University of Jerusalem 
+* 2018 - 2019: Postdoctoral Research Associate, The Racah Institute of Physics, The Hebrew University of Jerusalem, Israel 
 
 * 2012 - 2017: Graduate Researcher, Institute of Technology, Linköping University
 
@@ -34,4 +34,5 @@ Currently I am not teaching. In the past I have thought the following classes:
   * Engineering Mechanics (Undergraduate Level)
 
 ## Honors, Grants, and Awards
+
 * 2018: Research Fellowship, The Hebrew University of Jerusalem 
