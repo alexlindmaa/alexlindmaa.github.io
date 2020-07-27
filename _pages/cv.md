@@ -21,9 +21,9 @@ redirect_from:
   
 * 2018 - 2019: Postdoctoral Research Associate, The Racah Institute of Physics, The Hebrew University of Jerusalem, Israel 
 
-* 2012 - 2017: Graduate Researcher, Institute of Technology, Linköping University
+* 2012 - 2017: Graduate Researcher, LiTH Sweden
 
-* 2012: Research Assistant, Institute of Technology, Linköping University
+* 2012: Research Assistant, LiTH Sweden 
    
 ## Teaching    
 
