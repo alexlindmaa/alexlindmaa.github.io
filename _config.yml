@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Alexander Lindmaa"
 title_separator          : "-"
-name                     : &name "Dr. Alexander Lindmaa"
+name                     : &name "Alexander Lindmaa"
 description              : &description "personal description"
 url                      : https://alexlindmaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Alexander Lindmaa"
+  name             : "Dr. Alexander Lindmaa"
   avatar           : "profile.png"
   bio              : "Theoretical Physics | Machine Learning"  
 #  location         : "Location"
