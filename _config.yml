@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Alexander Lindmaa, Ph.D."
+title                    : "Alexander Lindmaa"
 title_separator          : "-"
-name                     : &name "Alexander Lindmaa"
+name                     : &name "Dr. Alexander Lindmaa"
 description              : &description "personal description"
 url                      : https://alexlindmaa.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
